@@ -6,8 +6,8 @@
   "description": "Changes microsoft docs language to english",
 
   "icons": {
-    "48": "icons/changer.svg",
-    "96": "icons/changer.svg"
+    "48": "icons/changer48.png",
+    "96": "icons/changer96.png"
   },
   
   "permissions": [
